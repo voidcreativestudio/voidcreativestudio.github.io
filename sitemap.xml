@@ -1,16 +1,103 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-  <sitemap>
-    <loc>https://voidcreativestudio.github.io/en/sitemap.xml</loc>
-    
-      <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-    
-  </sitemap>
+  <url>
+    <loc>https://voidcreativestudio.github.io/categories/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url>
   
-  <sitemap>
-    <loc>https://voidcreativestudio.github.io/fr/sitemap.xml</loc>
-    
-  </sitemap>
+  <url>
+    <loc>https://voidcreativestudio.github.io/categories/database/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url>
   
-</sitemapindex>
+  <url>
+    <loc>https://voidcreativestudio.github.io/categories/design/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://voidcreativestudio.github.io/categories/development/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://voidcreativestudio.github.io/categories/logo/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://voidcreativestudio.github.io/portfolio/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://voidcreativestudio.github.io/portfolio/project-1/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://voidcreativestudio.github.io/portfolio/project-2/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://voidcreativestudio.github.io/portfolio/project-3/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://voidcreativestudio.github.io/portfolio/project-4/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://voidcreativestudio.github.io/portfolio/project-5/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://voidcreativestudio.github.io/portfolio/project-6/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://voidcreativestudio.github.io/categories/sketch/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://voidcreativestudio.github.io/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://voidcreativestudio.github.io/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://voidcreativestudio.github.io/call-to-action/</loc>
+  </url>
+  
+  <url>
+    <loc>https://voidcreativestudio.github.io/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://voidcreativestudio.github.io/service/</loc>
+  </url>
+  
+  <url>
+    <loc>https://voidcreativestudio.github.io/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://voidcreativestudio.github.io/testimonial/</loc>
+  </url>
+  
+  <url>
+    <loc>https://voidcreativestudio.github.io/banner/</loc>
+  </url>
+  
+</urlset>

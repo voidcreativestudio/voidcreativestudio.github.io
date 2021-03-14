@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Illustration on Void Creative Studio</title>
+    <link>https://voidcreativestudio.github.io/categories/illustration/</link>
+    <description>Recent content in Illustration on Void Creative Studio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
+    <lastBuildDate>Thu, 20 Sep 2018 12:14:34 +0600</lastBuildDate><atom:link href="https://voidcreativestudio.github.io/categories/illustration/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BLINDSIDED</title>
+      <link>https://voidcreativestudio.github.io/portfolio/project-7/</link>
+      <pubDate>Thu, 20 Sep 2018 12:14:34 +0600</pubDate>
+      
+      <guid>https://voidcreativestudio.github.io/portfolio/project-7/</guid>
+      <description>A commission by SONY Music. An Audio / Visual installation to raise awareness over Mental Health Awareness Week.</description>
+    </item>
+    
+    <item>
+      <title>ROLLERSNAKE</title>
+      <link>https://voidcreativestudio.github.io/portfolio/project-5/</link>
+      <pubDate>Thu, 20 Sep 2018 12:14:34 +0600</pubDate>
+      
+      <guid>https://voidcreativestudio.github.io/portfolio/project-5/</guid>
+      <description>A commission by SONY Music. An Audio / Visual installation to raise awareness over Mental Health Awareness Week.</description>
+    </item>
+    
+    <item>
+      <title>SOLITUDE</title>
+      <link>https://voidcreativestudio.github.io/portfolio/project-6/</link>
+      <pubDate>Thu, 20 Sep 2018 12:14:34 +0600</pubDate>
+      
+      <guid>https://voidcreativestudio.github.io/portfolio/project-6/</guid>
+      <description>A commission by SONY Music. An Audio / Visual installation to raise awareness over Mental Health Awareness Week.</description>
+    </item>
+    
+  </channel>
+</rss>

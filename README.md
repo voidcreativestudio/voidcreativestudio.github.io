@@ -2,6 +2,6 @@
 
 workflow.
 
->> hugo 
+- hugo 
 <br>
->> pull, push
+- pull, push
